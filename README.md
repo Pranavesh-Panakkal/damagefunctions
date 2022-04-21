@@ -9,4 +9,5 @@ The following functions are available:
 |pistrika_US_2010_block_group|New Orleans|N/A|[Pristrika and Jonkman (2010)](https://link.springer.com/article/10.1007/s11069-009-9476-y)|Based on Hurricane Katrina New Orleans residential damage data; Applicable for block groups|
 |pistrika_US_2010_block|New Orleans|N/A|[Pristrika and Jonkman (2010)](https://link.springer.com/article/10.1007/s11069-009-9476-y)|Based on Hurricane Katrina New Orleans residential damage data; Applicable for blocks|
 
+This is an edit that I made.
  
